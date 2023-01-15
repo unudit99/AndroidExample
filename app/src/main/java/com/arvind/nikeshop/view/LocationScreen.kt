@@ -69,7 +69,7 @@ fun LocationScreen(){
                  ) {
                      ElectronicCategory()
                      Spacer(modifier = Modifier.padding(10.dp))
-                     Text(text = "Urgent Feature One",
+                     Text(text = "Urgent Feature One Pull request",
                          fontWeight = FontWeight.Bold,
                          fontSize = 20.sp,
                          color = red
