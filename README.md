@@ -1,4 +1,4 @@
-# E-commerceShopAppUI-Android
+# E-commerceShopAppUI-Android and Emplement CI AND CD
 New style for app design E-commerce Shop App UI made in Jetpack Compose.😉😎
 
 (Navigation Components,
