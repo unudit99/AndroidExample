@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NikeShop</string>
+    <string name="app_name">TalkCharge</string>
 
     <string name="product_text_description">
         Clean lines, versatile and timeless—the people shoe
@@ -15,4 +15,5 @@ stitched overlays and classic TPU details.
 Classic colours celebrate your fresh look
 while Max Air cushioning adds comfort to the journey.
     </string>
+    <string name="title_activity_assigmment">AssigmmentActivity</string>
 </resources>

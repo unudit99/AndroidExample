@@ -28,6 +28,9 @@ fun Navigation() {
         composable(Screen.LocationScreen.route) {
             LocationScreen()
         }
+        composable(Screen.LocationScreen.route) {
+            Weather()
+        }
 
     }
 }
